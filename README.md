@@ -2,7 +2,8 @@
 
 ### Goal: Enable your user to enter a date and return the picture/video of the day from NASA's API
 
-### How to submit your code for review:
+<img width="1792" alt="Screen Shot 2022-10-29 at 1 39 23 AM" src="https://user-images.githubusercontent.com/113155959/198815866-fdb7c273-cc79-4c86-b3e9-a86089fbbbdb.png">
+
 
 - Fork and clone this repo
 - Create a new branch called answer

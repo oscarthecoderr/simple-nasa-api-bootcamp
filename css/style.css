@@ -19,3 +19,6 @@ img{
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
+body{
+  background-image: radial-gradient(circle, #f4ce1e, #ff9d62, #f48798, #b386a9, #807f8c);
+}
